@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: script-src 'self' https://analytics.tiktok.com; object-src 'none';
